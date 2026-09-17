@@ -1,19 +1,18 @@
 # Hi, I'm Monis. 👋
 
-**Fullstack ML · Python · Industrial Automation**
+**Fullstack Software Engineer · AI · Automation**
 
 ---
 
 ## 👩‍💻 About Me
 
-I focus on building **production-grade systems** for factories including Machine design and automation, PLC Programming, HMIs, Machine metrics, ERPs, APIs and Data pipelines.
+Applied Solutions Architect with a rare mix of site-level operations, database architecture, and GenAI engineering. I design AI-powered systems that turn fragmented, paper-based workflows into structured, cloud-based operations. Experienced across manufacturing, construction, logistics, procurement, and environmental services. I build RAG pipelines, LLM tools, and workflow automations that connect finance, HR, inventory, shop floor, site, and sales data. Known for zero-budget workarounds, rapid MVP delivery, and measurable reductions in manual work.
 
 ### Interested in:
 
+- Full-stack Software Engineering 
 - Industrial Automation
 - ERPs
-- Fullstack ML
-- Data Heavy Systems. 
 
 Always tinkering. Always learning.
 
@@ -21,21 +20,15 @@ Always tinkering. Always learning.
 
 ## 🛠 Tools I Prefer 
 
-### 🐍 Python Backend with Databases
-- FastAPI  
-- Flask    
-- Async systems  
+### 🐍 Fullstack Software Engineering
+- FastAPI/Flask/Javascript/React/DotNet  
 - REST API design
-- MariaDB
-- PostgreSQL
-- SQLite
+- Sqlite/PostgreSQL
 
 ### 🏭 Industrial Automation
-- PLC Programming
-- SCADA Visualization
-- Field Instrumentation
-- Panel Design and Control
-- AutoCAD/FreeCAD
+- PLC/SCADA
+- Instrumentation & Panel Design
+- FreeCAD
 
 ### ☁️ Cloud & Infrastructure 
 - Docker  
