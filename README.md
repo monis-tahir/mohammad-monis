@@ -1,18 +1,17 @@
 # Hi, I'm Monis. 👋
 
-**Fullstack Software Engineer · AI · Automation**
+**Industrial AI & Operations Systems · Fractional CTO**
 
 ---
 
 ## 👩‍💻 About Me
 
-Applied Solutions Architect with a rare mix of site-level operations, database architecture, and GenAI engineering. I design AI-powered systems that turn fragmented, paper-based workflows into structured, cloud-based operations. Experienced across manufacturing, construction, logistics, procurement, and environmental services. I build RAG pipelines, LLM tools, and workflow automations that connect finance, HR, inventory, shop floor, site, and sales data. Known for zero-budget workarounds, rapid MVP delivery, and measurable reductions in manual work.
+I help industrial, logistics, and construction companies bridge the gap between their physical operations and modern software. With hands-on experience ranging from job site engineering to vector search backends, I design zero-fluff digital infrastructure. I work with leadership teams to evaluate AI feasibility, automate field workflows, and build systems that make money instead of wasting it.
 
 ### Interested in:
 
 - Full-stack Software Engineering 
 - Industrial Automation
-- ERPs
 
 Always tinkering. Always learning.
 
@@ -21,9 +20,9 @@ Always tinkering. Always learning.
 ## 🛠 Tools I Prefer 
 
 ### 🐍 Fullstack Software Engineering
-- FastAPI/Flask/Javascript/React/DotNet  
-- REST API design
+- Next.js/Expo
 - Sqlite/PostgreSQL
+- Opensource tools
 
 ### 🏭 Industrial Automation
 - PLC/SCADA
