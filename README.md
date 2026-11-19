@@ -2,56 +2,62 @@
 
 ### Fractional CTO | Industrial AI & Operations Architect
 
-I design and engineer digital infrastructure for industrial, logistics, manufacturing, and construction operations.
+I help operational businesses understand their technology requirements, architect their digital infrastructure, and implement practical software, automation, and AI systems.
 
-My work connects physical workflows, enterprise software, operational data, industrial automation, and applied AI.
+My work sits at the intersection of business operations, enterprise software, industrial automation, and applied AI.
 
-I focus on practical engineering: understanding the operational problem, choosing appropriate technologies, and building secure, maintainable systems.
+I am interested in building reliable, understandable, and maintainable systems that solve actual operational problems.
 
-## Areas of Focus
+## Engineering Domains
 
-| Domain | Focus |
-|---|---|
-| Technology Leadership | Architecture, technology strategy, governance |
-| Enterprise Software | ERP, operational applications, integrations |
-| Industrial Technology | PLC, SCADA, industrial automation |
-| Data Infrastructure | PostgreSQL, SQL, multi-tenant systems |
-| Applied AI | Semantic search, vector databases, predictive analytics |
-| Quality Engineering | API testing, load testing, automation |
+**Technology Architecture**
+- Enterprise software architecture
+- System integrations
+- Database and infrastructure design
+- Technology evaluation and governance
 
-## Technology
+**Industrial & Operations Technology**
+- PLC and SCADA systems
+- Industrial automation
+- Fleet and logistics applications
+- Manufacturing and operational systems
 
-**Languages:** Python, JavaScript, C++
+**Software & Data Infrastructure**
+- Python, JavaScript, C++
+- PostgreSQL, MySQL, SQLite
+- React, Vue, Flask, Django
+- APIs and workflow automation
 
-**Application Development:** Flask, Django, React, Vue
+**Applied AI**
+- Semantic search
+- Vector databases
+- Predictive analytics
+- AI integration and evaluation
 
-**Data:** PostgreSQL, MySQL, SQLite, pgvector
+**Quality Engineering**
+- API testing
+- Performance and load testing
+- Playwright, Locust, pytest
 
-**Industrial:** PLC, AVEVA InTouch, Arduino
+## Engineering Philosophy
 
-**Automation & QA:** Power Automate, AppSheet, Playwright, Locust, pytest
+- Understand the business problem before selecting technology.
+- Prefer simple and maintainable architectures.
+- Design for security, reliability, and cost efficiency.
+- Use deterministic systems where deterministic systems are sufficient.
+- Apply AI where uncertainty, language, or pattern recognition creates real value.
+- Treat software as part of an operating system for the business, not an isolated product.
 
-## Selected Areas of Work
+## Selected Work
 
-- Fleet and logistics operations digitalization
-- Enterprise workflow and lifecycle management
-- AI-enabled procurement and semantic vendor matching
-- Predictive demand and replenishment analytics
-- Industrial SCADA and control systems
-- API quality and performance engineering
+My professional work spans fleet operations, enterprise workflow systems, semantic procurement, predictive analytics, industrial control systems, and API quality engineering.
 
-## Engineering Principles
-
-- Understand the operational problem before selecting technology.
-- Prefer simple, reliable architectures over unnecessary complexity.
-- Design for security, maintainability, and cost efficiency.
-- Use deterministic software where deterministic software is sufficient.
-- Apply AI where uncertainty, pattern recognition, or language understanding creates real value.
+Public repositories and demonstrations will document the engineering approaches, architecture decisions, and reusable components behind these domains.
 
 ## Connect
 
 Email: monis.taher@proton.me
 
-LinkedIn: https://www.linkedin.com/in/mohammad-monis-architect
+LinkedIn: [Professional profile]
 
 GitHub: https://github.com/monis-tahir
