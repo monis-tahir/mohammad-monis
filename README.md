@@ -1,35 +1,28 @@
-# Hi, I'm Monis. 👋
+# Mohammad Monis
 
-**Industrial AI & Operations Systems · Fractional CTO**
+### Industrial AI & Operations Architect
 
----
+I build software and digital infrastructure for industrial, logistics, manufacturing, and construction operations.
 
-## 👩‍💻 About Me
+My work focuses on connecting physical workflows, enterprise data, automation systems, and applied AI.
 
-I help industrial, logistics, and construction companies bridge the gap between their physical operations and modern software. With hands-on experience ranging from job site engineering to vector search backends, I design zero-fluff digital infrastructure. I work with leadership teams to evaluate AI feasibility, automate field workflows, and build systems that make money instead of wasting it.
+### Areas of Focus
 
-### Interested in:
+- Industrial Automation: PLC, SCADA, industrial control systems
+- Software Architecture: Python, JavaScript, TypeScript, SQL
+- Data Infrastructure: PostgreSQL, pgvector, relational database design
+- Enterprise Systems: ERP, workflow automation, operational applications
+- Applied AI: Semantic search, predictive analytics, AI integration
+- Quality Engineering: API testing, performance testing, test automation
 
-- Full-stack Software Engineering 
-- Industrial Automation
+### Selected Engineering Work
 
-Always tinkering. Always learning.
+- Fleet Operations Digitalization
+- AI Procurement & Semantic Matching
+- Predictive Demand & Retention
+- Industrial SCADA & Control Systems
+- API Quality & Performance Engineering
 
----
+### Engineering Philosophy
 
-## 🛠 Tools I Prefer 
-
-### 🐍 Fullstack Software Engineering
-- Next.js/Expo
-- Sqlite/PostgreSQL
-- Opensource tools
-
-### 🏭 Industrial Automation
-- PLC/SCADA
-- Instrumentation & Panel Design
-- FreeCAD
-
-### ☁️ Cloud & Infrastructure 
-- Docker  
-- CI/CD pipelines  
-- Google Cloud Platform (GCP)
+Build systems around real operational problems. Prefer understandable architectures, reliable infrastructure, measurable business value, and appropriate technology over unnecessary complexity.
